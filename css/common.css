@@ -1,0 +1,7 @@
+.contents .visual .title {width: 100%; position: absolute; left: 0; top:50%; transform: translateY(-50%); font-family: 'Montserrat', sans-serif; font-weight: bold; text-align: center; color:#fff; font-size: 70px; text-shadow: 0 0 10px rgba(0,0,0,0.3); text-transform: uppercase;}
+
+.inner {width: 1400px; margin: 0 auto;}
+.contents-text {font-size: 20px; line-height: 1.2; margin: 40px 0; font-family: 'Noto Sans KR', sans-serif; width: 70%;}
+.text a {display: inline-block;  padding: 5px 15px;  border:1px solid #333; border-radius: 20px; font-size: 12px;font-family:'Montserrat', sans-serif; font-weight: bold;letter-spacing: 1px;text-transform: uppercase; transition: all 0.2s;}
+.text a:hover,.text a:focus {border:none; background-color: #333; color: #fff; transition: all 0.2s;}
+.subtitle {font-size: 30px; font-weight: 500;}
